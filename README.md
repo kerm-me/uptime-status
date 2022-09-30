@@ -18,7 +18,7 @@
    - `CountDays`: 要显示的日志天数，建议 60 或 90，显示效果比较好
    - `ShowLink`: 是否显示站点链接
    - `Navi`: 导航栏的菜单列表
-- 以 Cloudflare Pages 为例，使用 
+- 以 Cloudflare Pages 为例，使用以下配置部署即可
 
 ```
 构建命令：npm run build
@@ -26,4 +26,3 @@
 根目录：/
 ```
 
-配置即可
